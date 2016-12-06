@@ -1,0 +1,1 @@
+*Dit is tekstbestand twee van twee.*
